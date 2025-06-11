@@ -8,7 +8,7 @@ O **Serviços Fácil** é uma plataforma intuitiva e moderna que permite aos usu
 
 ## 💻 Tecnologias Utilizadas
 
-- **Framework:** ReactJS
+- **Biblioteca:** ReactJS
 - **Linguagem:** TypeScript, Javascript
 - **Estilização:** Tailwind CSS
 - **Gerenciamento de estado:** Context API, Redux.
