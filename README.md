@@ -30,8 +30,11 @@ O **Serviços Fácil** é uma plataforma intuitiva e moderna que permite aos usu
 ### 🖼️ Tela de Dashboard
 ![Dasboard](https://github.com/user-attachments/assets/eaa27be4-b2b8-4523-afbd-ef0b5ac810ad)
 
-### Meu Perfil
-![Image](https://github.com/user-attachments/assets/88f7bc41-d3eb-4848-9f28-fb9608fb0eed)
+### Relatórios
+![Image](https://github.com/user-attachments/assets/2bc8fae0-da86-4327-a589-9b19f819cc65)
+
+### Configurações > Integrações
+![Image](https://github.com/user-attachments/assets/f35362d6-264a-421a-8517-bc25745d3334)
 
 ## 🚀 Funcionalidades
 
@@ -42,6 +45,7 @@ O **Serviços Fácil** é uma plataforma intuitiva e moderna que permite aos usu
 - Perfil do paciente com histórico de atendimentos
 - Painel administrativo para controle de agenda dos profissionais
 - Geração de relatórios
+- Integrações ( Google Calendar, E-mail, entre outros... )
 
 ## Este Projeto ainda está em desenvolvimento.
 
