@@ -12,9 +12,9 @@ O **Serviços Fácil** é uma plataforma intuitiva e moderna que permite aos usu
 - **Linguagem:** TypeScript, Javascript
 - **Estilização:** Tailwind CSS
 - **Gerenciamento de estado:** Context API, Redux.
-- **NestJS** no Backend
-- **PostgreSQL** Banco de dados  
-- **TypeORM** ORM
+- **Framework** NestJs para Backend
+- **Banco de dados** PostgreSql  
+- **ORM** TypeORM
 - **entre outros...**
 
 ## 📸 Imagens do Sistema
