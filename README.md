@@ -29,15 +29,15 @@ Já está em produção, atendendo clínicas reais.
 
 > 📸 _Tela de login_
 >
-> ![Login](https://github.com/user-attachments/assets/a36cf6c1-79b4-42c7-8278-4d2f654855a4)
+> ![Login](https://github.com/user-attachments/assets/019d14ba-5939-4972-aedd-ef3f0e41755c)
 
 > 📸 _Dashboard principal_
 >
-> ![Dashboard](https://github.com/user-attachments/assets/6f88cb35-5f55-4f17-ae59-22cef8e566a1)
+> ![Dashboard](https://github.com/user-attachments/assets/be420d4e-dca8-4860-bb43-02c7ca970d38)
 
 > 📸 _Gestão financeira_
 >
-> ![Gestão Financeira](https://github.com/user-attachments/assets/ccc083fc-2df4-4aa0-b73e-460e2eb3d6f3)
+> ![Gestão Financeira](https://github.com/user-attachments/assets/80031b6a-49d8-473f-9323-058f4c7c58b1)
 
 ---
 
