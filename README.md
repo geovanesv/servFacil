@@ -33,11 +33,11 @@ Já está em produção, atendendo clínicas reais.
 
 > 📸 _Dashboard principal_
 >
-> ![Dashboard](https://github.com/user-attachments/assets/be420d4e-dca8-4860-bb43-02c7ca970d38)
+> ![Dashboard](https://github.com/user-attachments/assets/507408a8-1e04-47a2-bca7-12ea1d090f1f)
 
 > 📸 _Gestão financeira_
 >
-> ![Gestão Financeira](https://github.com/user-attachments/assets/80031b6a-49d8-473f-9323-058f4c7c58b1)
+> ![Gestão Financeira](https://github.com/user-attachments/assets/be87c5c3-7fcc-44e2-a266-7626d6c5998a)
 
 ---
 
